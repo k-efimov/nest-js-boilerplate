@@ -1,7 +1,6 @@
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.  
-Repository for **Dunice Matrix**
 
 ## Installation
 
@@ -18,7 +17,7 @@ DATABASE_HOST=
 DATABASE_PORT=
 DATABASE_USER=
 DATABASE_PASSWORD=
-DATABASE_MATRIX=<name of the DB>
+DATABASE_NAME=<name of the DB>
 ```
 
 ## Running the app
